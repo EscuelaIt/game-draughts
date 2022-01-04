@@ -12,7 +12,9 @@ Universo Santa Tecla
 ## Modelo del dominio
 
 ![Draughts](docs/images/draughts.jpg)
+
 [WIKI](https://es.wikipedia.org/wiki/Damas)
+
 [Youtube](https://www.youtube.com/watch?v=mXCI4MwNl6A)
 
 ### Vocabulario

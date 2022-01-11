@@ -24,4 +24,4 @@ Universo Santa Tecla
 ### Estado inicial
 
 ![Estado Inicial](./docs/diagrams/out/modeloDominio/initial_state.svg)
-git 
+

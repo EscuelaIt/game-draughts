@@ -24,7 +24,4 @@ Universo Santa Tecla
 ### Estado inicial
 
 ![Estado Inicial](./docs/diagrams/out/modeloDominio/initial_state.svg)
-
-### Secuencia comer pieza
-
-![Secuencia Comer_Pieza](./docs/diagrams/out/modeloDominio/eat_sequence.svg)  
+git 
